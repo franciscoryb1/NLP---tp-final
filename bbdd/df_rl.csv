@@ -1,0 +1,91 @@
+consulta,fuente
+¿Cuántos componentes hay en el juego?,tabular
+¿Cuál es la cantidad total de fichas disponibles?,tabular
+¿Qué recursos iniciales recibe cada jugador?,tabular
+¿Cuántos campos se pueden utilizar para plantar vides?,tabular
+¿Cuántas cartas de pedido hay en el mazo?,tabular
+¿Qué cantidad de trabajadores recibe cada jugador al inicio?,tabular
+¿Cuántos tipos de vino se pueden producir?,tabular
+¿Qué número de cartas hay en el mazo de visitantes?,tabular
+¿Cuántas vides pueden plantarse en un campo?,tabular
+¿Qué cantidad de monedas recibe el jugador al inicio?,tabular
+¿Cuántos puntos de victoria se necesitan para ganar?,tabular
+¿Qué cantidad de recursos se requieren para construir una estructura?,tabular
+¿Cuántos turnos hay en total en una partida?,tabular
+¿Qué cantidad de cartas se reparten al inicio del juego?,tabular
+¿Cuántos jugadores pueden participar en una partida de Viticulture?,tabular
+¿Qué cantidad de pedidos se puede completar en una ronda?,tabular
+¿Cuántos campos se entregan al inicio del juego?,tabular
+¿Cuántas estructuras se pueden construir en total?,tabular
+¿Qué cantidad de vino puede almacenarse en la bodega?,tabular
+¿Cuántas monedas se obtienen al vender un tipo de vino?,tabular
+¿Cuántos trabajadores se pueden utilizar por ronda?,tabular
+¿Cuántos visitantes hay disponibles en la fase de verano?,tabular
+¿Qué cantidad de puntos de victoria ofrece un pedido completado?,tabular
+¿Cuántos campos están disponibles al inicio de la partida?,tabular
+¿Cuántos trabajadores temporales pueden utilizarse en una partida?,tabular
+¿Cuántos recursos son necesarios para elaborar vino blanco?,tabular
+¿Qué cantidad de cartas de pedido iniciales recibe un jugador?,tabular
+¿Cuántos puntos de victoria se pueden ganar en una temporada?,tabular
+¿Qué cantidad de monedas se necesita para construir un molino?,tabular
+¿Cuántos tipos de pedidos existen en el juego?,tabular
+¿Qué acciones se deben realizar en la primavera?,vectorial
+¿Cómo se construye una bodega en el juego?,vectorial
+¿Cuáles son las reglas generales para jugar Viticulture?,vectorial
+¿Qué mecánicas se utilizan en el invierno?,vectorial
+¿Cuáles son los objetivos del juego Viticulture?,vectorial
+¿Qué beneficios se obtienen al jugar visitantes en verano?,vectorial
+¿Cómo se elaboran los distintos tipos de vino en el juego?,vectorial
+¿Qué ocurre si un jugador no tiene recursos en invierno?,vectorial
+¿Cómo se completan los pedidos en el juego?,vectorial
+¿Cuáles son las reglas adicionales que afectan la puntuación final?,vectorial
+¿Qué acciones puede realizar un trabajador temporal?,vectorial
+¿Cómo se obtienen más cartas de visitantes?,vectorial
+¿Qué sucede al final de cada temporada en el juego?,vectorial
+¿Cuáles son las diferencias entre las estaciones de verano e invierno?,vectorial
+¿Cómo se utiliza el molino para obtener beneficios adicionales?,vectorial
+¿Cuáles son las restricciones para plantar vides en un campo?,vectorial
+¿Qué efectos tienen los visitantes en las acciones de primavera?,vectorial
+¿Cómo se pueden intercambiar recursos entre jugadores?,vectorial
+¿Qué sucede si no se completan los pedidos en una temporada?,vectorial
+¿Cómo afecta la primavera al orden de juego?,vectorial
+¿Qué opciones existen para ganar puntos de victoria?,vectorial
+¿Cómo se juega con un trabajador temporal en el invierno?,vectorial
+¿Qué recursos se pueden intercambiar al construir estructuras?,vectorial
+¿Cuáles son las fases principales del juego Viticulture?,vectorial
+¿Qué reglas se aplican para la construcción del molino?,vectorial
+¿Cómo se ordenan los jugadores al final de una ronda?,vectorial
+¿Qué restricciones hay para plantar vides adicionales?,vectorial
+¿Qué beneficios se obtienen de completar un pedido de vino?,vectorial
+¿Cuáles son los efectos de los visitantes de invierno?,vectorial
+¿Qué sucede cuando se utilizan todos los trabajadores disponibles?,vectorial
+¿Qué puedo producir si tengo una bodega y un campo?,grafos
+"Si planto una vid, ¿qué recurso obtengo?",grafos
+¿Qué visitantes puedo usar durante el verano?,grafos
+¿Qué relaciones existen entre una vid y una uva?,grafos
+"Si tengo vino blanco, ¿qué pedido puedo cumplir?",grafos
+¿Qué elementos necesito para producir vino tinto?,grafos
+¿Qué conexiones existen entre el molino y los campos?,grafos
+¿Qué ocurre si combino un trabajador con una estructura?,grafos
+¿Qué componentes afectan la producción de uvas?,grafos
+¿Cómo se relacionan las cartas de pedido con las vides plantadas?,grafos
+¿Qué pasos debo seguir para completar un pedido de vino tinto?,grafos
+"Si tengo uvas en un campo, ¿cómo las convierto en vino?",grafos
+¿Cómo interactúan los visitantes con las acciones de los jugadores?,grafos
+¿Qué estructura necesito para producir vino blanco?,grafos
+¿Qué sucede si un jugador tiene un molino y un campo plantado?,grafos
+¿Cómo se conectan los pedidos con los recursos disponibles en el tablero?,grafos
+¿Qué relaciones existen entre un trabajador y las acciones de invierno?,grafos
+¿Qué debo hacer para que una vid produzca uvas?,grafos
+"Si planto una vid y construyo un molino, ¿qué obtengo?",grafos
+¿Cómo se relaciona la bodega con los pedidos de vino?,grafos
+¿Qué acciones adicionales puedo realizar si tengo una estructura construida?,grafos
+¿Qué conexiones hay entre las cartas de visitantes y las acciones?,grafos
+¿Qué ocurre si utilizo un trabajador en la construcción de una bodega?,grafos
+¿Cómo se completa un pedido cuando ya tengo vino almacenado?,grafos
+¿Qué recursos debo combinar para producir vino rosado?,grafos
+¿Cómo afecta la combinación de un molino y una vid al juego?,grafos
+¿Qué debo construir para completar pedidos rápidamente?,grafos
+¿Qué elementos son necesarios para cumplir un pedido de vino blanco?,grafos
+¿Qué ocurre si se combinan trabajadores y campos de cultivo?,grafos
+¿Cómo influyen las estructuras en la producción de vino?,grafos

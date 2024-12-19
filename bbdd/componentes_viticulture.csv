@@ -1,0 +1,23 @@
+Componente,Cantidad,Descripción,Usos Principales
+Cartas de Vid,42,Representan diferentes tipos de uvas.,Plantación de viñas en los campos.
+Cartas de Pedido,36,Pedidos de clientes que otorgan puntos al completarse.,Cumplir pedidos y ganar puntos de victoria.
+Cartas de Visitante de Verano,40,Ofrecen ventajas durante el verano.,Habilitar acciones adicionales en verano.
+Cartas de Visitante de Invierno,40,Ofrecen ventajas durante el invierno.,Habilitar acciones adicionales en invierno.
+Trabajadores,30,Meeples utilizados para realizar acciones.,"Realizar tareas como cosechar, plantar y construir."
+Tablero Principal,1,Muestra las estaciones y las acciones disponibles.,Proporcionar un mapa de las acciones posibles.
+Tableros Individuales,6,Tableros para cada jugador con su viñedo.,Personalizar estrategias según los tableros individuales.
+Fichas de Monedas,50,Monedas para realizar transacciones.,"Comprar estructuras, plantar y realizar intercambios."
+Fichas de Vino,50,Fichas de cristal que representan vinos.,Almacenar y vender vinos producidos.
+Fichas de Uva,50,Fichas de cristal que representan uvas.,Almacenar y procesar las uvas cosechadas.
+Estructuras,12,Mejoras que pueden construirse en el viñedo.,Ampliar capacidades del viñedo.
+Ficha de Primer Jugador,1,Marca quién es el primer jugador del turno.,Determinar quién toma el primer turno.
+Fichas de Residuo,10,Indican las sobras o productos no utilizados en el viñedo.,Registrar recursos desperdiciados o sobrantes.
+Marcadores de Puntos,6,Fichas que registran los puntos de victoria de cada jugador.,Indicar los puntos acumulados por cada jugador.
+Fichas de Campo,12,Indican qué campos están ocupados por vides.,Gestionar los campos disponibles para plantaciones.
+Cartas de Evento Especial,8,Acciones únicas que modifican las reglas temporalmente.,Añadir variabilidad y nuevos desafíos al juego.
+Fichas de Estación,4,Indican las estaciones para cada acción disponible.,Definir las estaciones para organizar el turno.
+Cartas de Construcción,20,Representan edificios y estructuras a construir.,Ayudar a planificar y ejecutar construcciones.
+Cartas de Acción,24,Acciones especiales que pueden ejecutarse.,Ofrecer acciones estratégicas específicas.
+Fichas de Jugador,6,Marcadores para identificar a cada jugador.,Identificar qué jugador realiza cada acción.
+Cartas de Objetivo,10,Definen objetivos adicionales para puntuar.,Cumplir objetivos para obtener recompensas.
+Fichas de Recursos,15,Recursos adicionales utilizados en la partida.,Gestionar y usar recursos en el viñedo.
